@@ -50,6 +50,10 @@ export default function RootLayout({
         />
         <meta name="theme-color" content="#000" />
         <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
+        <meta
+          name="google-site-verification"
+          content="FN0CSkSQu79CfcGCLalZbi5XuTD9MWHFcZmmg37tKYI"
+        />
       </head>
       <body className={inter.className}>
         <div className="min-h-screen">{children}</div>
