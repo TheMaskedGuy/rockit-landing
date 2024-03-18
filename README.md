@@ -34,6 +34,8 @@ So why wait? Get ready to Rockit! 🚀
 
 ![Screenshot 3](/assets/ss3.png)
 
+![Screenshot 4](/assets/ss4.png)
+
 ## How to use this repo
 
 Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
