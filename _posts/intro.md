@@ -34,7 +34,7 @@ But that’s not all! Click on the 🚀 Rockit extension icon, and you’ll get 
 
 ## Note
 
--> First Time Install: You may need to reload webpages opened prior to Rockit installation, as that would help Rockit 🚀 to load along with webpage.
+-> First Time Install: You may need to reload webpages opened prior to Rockit installation, as that would help Rockit 🚀 to load along with webpage. (For Chrome and Chromium based browsers - basically anything that is not Mozilla or Safari)
 
 -> Rockit works on most websites, but there may be some limitations based on the site's specific security policies, that is if reloading the page did not help. Selecting via pressing ctrl / cmd + A may not format text in some sites, use mouse cursor to select. (Site specific restriction)
 

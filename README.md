@@ -8,13 +8,25 @@ With Rockit, you can transform any selected text on a webpage with just a right-
 
 But that’s not all! Click on the 🚀 Rockit extension icon, and you’ll get a neat info of your selected text, including word count, letter count, and line count. Perfect for those who need to keep track of their word usage! 📝
 
-## 👮 Instructions For Use (repo usage at the bottom)
+## 👮 Instructions For Use
 
--> ⚠️ Reload old webpages after new fresh install, so Rockit can load alongside the page in order to work on it (only needed for first time when you have old webpages open prior to Rockit installation) ⚠️
+-> Select the text you want to format on any webpage. Can be text inside a text input field or even the content displayed on the site 😈
 
--> Simply right click after selection text and choose from the many formatting and fancy text generating options available inside 🚀 Rockit menu item from the drop down.
+-> Right-click to open the context menu and hover over the "🚀 Rockit - Fancy text..." option to see formatting choices.
 
--> Select text on a website and click on 🚀 Rockit popup icon to get information on selection word, letter and line count, other stats to be added soon.
+-> Choose your desired formatting or fancy text option. Rockit will immediately apply the style to your selected text 🥳
+
+-> To access more stats and information like word count, character count and such of the selected text, click the Rockit icon in your browser's extension toolbar 💃
+
+-> You can pres ctrl + z or command + z (mac) to undo fancy text conversion, inside of a text input and fields 👻
+
+## Note
+
+-> First Time Install: You may need to reload webpages opened prior to Rockit installation, as that would help Rockit 🚀 to load along with webpage. (For Chrome and Chromium based browsers - basically anything that is not Mozilla or Safari)
+
+-> Rockit works on most websites, but there may be some limitations based on the site's specific security policies, that is if reloading the page did not help. Selecting via pressing ctrl / cmd + A may not format text in some sites, use mouse cursor to select. (Site specific restriction)
+
+-> Live preview was removed as it was causing performance issues on low end machines :(
 
 ## ⏰ Time Savings and Use Cases
 

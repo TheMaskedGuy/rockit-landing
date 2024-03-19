@@ -14,7 +14,7 @@ ogImage:
 
 ## Introduction
 
-ApeX (“we”, “us”, “our”) respects your privacy and is committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you install and use the Rockit browser extension and our practices for collecting, using, maintaining, protecting, and disclosing that information.
+ApeX (“we”, “us”, “our”), or "Rockit" in context of extension add-on developer identity respects your privacy and is committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you install and use the Rockit browser extension and our practices for collecting, using, maintaining, protecting, and disclosing that information.
 
 ## Information We Collect and How We Collect It
 
